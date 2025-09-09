@@ -31,5 +31,5 @@ Naryan-Mar, Russia |  [Gmail](dmitry.ulanov02@gmail.com) | +7 (981) *** ** **
 
 ## Education
 
-**Programming in computer systems**
-SPbSUT, 2018 – 2022
+#### **Programming in computer systems**
+#### SPbSUT, 2018 – 2022
