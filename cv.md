@@ -15,8 +15,7 @@ Naryan-Mar, Russia |  [Gmail](dmitry.ulanov02@gmail.com) | +7 (981) *** ** **
 * Organization of preventive measures
 * Сreation of models of situation development and cartographic materials, preparation of reporting documents.
 
-
-
+---
 
 ## Skills
 **Basic development skills in:**
@@ -27,8 +26,7 @@ Naryan-Mar, Russia |  [Gmail](dmitry.ulanov02@gmail.com) | +7 (981) *** ** **
 
 **Key Strengths:** Discipline, Data Analysis
 
-***
-
+---
 ## Education
 
 #### **Programming in computer systems**

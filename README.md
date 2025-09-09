@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/Skout650/rsschool-cv/blob/gh-pages/cv.md
+https://skout650.github.io/rsschool-cv/cv
